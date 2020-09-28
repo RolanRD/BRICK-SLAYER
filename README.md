@@ -11,7 +11,7 @@ En fin; para ejecutar el godmode9 les recomiendo usar la versión 1.9.0 por tema
 
 1_ Se necesita una nand para poder revivir la consola, si no poseen una, usen la nand de método CTRTransfer. Claro usen la nand de su región y consola correspondiente. Luego meter la nand a la sd.
 
-2_ Un imán, y saber el punto de apagado de su consola con el imán (si el godmode9 les aparece solo enciendiedo la consola sin el imán ya no lo necesitan, claro también si el imán no funciona un ligero golpe en la parte inferior derecha funciona, solo si no se ejecuta el godmode9 con o sin él iman)
+2_ Un imán, y saber el punto de apagado de su consola con el imán (si el godmode9 les aparece solo enciendiedo la consola sin el imán ya no lo necesitan, claro también si el imán no funciona un ligero golpe en la parte inferior derecha funciona, solo si no se ejecuta el godmode9 con o sin él iman) https://images-ext-1.discordapp.net/external/lYpIov86J23GROK_OkWdeToo-ltZNr0x2u7K9mYtTRg/https/i.imgur.com/5e3lKe2.png?width=719&height=475
 
 3_ borrar el “boot.firm” del luma, luego poner el godmode9.firm a en la raíz de la sd, después cambiar el nombre del “godmode9” a “boot”. Luego de esto vamos a la consola, y encendemos normalmente (sino sale el godmode9 usar el imán). Los siguientes pasos son para una nand si usas CTRTransfer usar este link y tutorial. http://3ds.hack.guide/es_ES/ctrtransfer.html
 
