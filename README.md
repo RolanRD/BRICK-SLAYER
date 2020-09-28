@@ -1,6 +1,6 @@
  #BRICK-SLAYER
 Buenos días/noche.
-
+file:///C:/Users/A19B67552/Downloads/5e3lKe2.png
 Os vengo a presentar un método que descubrí para desbrickear una consola con el godmode9. Este método le llamo BRICK SLAYER
 
 Suena imposible o tal vez muy raro, pero les aseguro que funciona, en todo caso les informo que el brick de led azul no mata toda la consola. Esta queda viva parcialmente porque el sistema se fríe y daña por “X” razón más el hack tanto boot9strap, arm9loaderhax, bootNTRhax o los dev (hack para revivir consolas) queda totalmente intacto y funcional. (no eh probado con el brick de pantalla azul, pues no poseo una r4 por si no funciona, por lo que les digo que prueben, aquellos que poseen una r4.)
