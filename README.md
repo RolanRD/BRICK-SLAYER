@@ -38,3 +38,57 @@ Luego sacar la sd y meter el “boot.firm” del luma, luego entrar la sd y la c
 Para los que quieran contactarme por lo que dije mas arriba me os dejo el discord donde estoy https://discord.gg/dWA7nsC
 
 y mi nombre de Usuario es RolanRD#5834 me apode A9LH pero por si no quieren entrar ahí les dejo mi nombre. Agradecimientos a DH por darme la idea.
+
+
+
+
+
+
+
+
+
+
+
+
+
+ENGLISH
+
+
+
+I come to present a method that I discovered to unlock a console with the godmode9. This method I call BRICK SLAYER
+
+It sounds impossible or perhaps very strange, but I assure you it works, in any case I inform you that the blue led brick does not kill the entire console. This is partially alive because the system is fried and damaged by reason "X" plus the boot9strap, arm9loaderhax, bootNTRhax hack or the dev (console revive hack) is fully intact and functional. (I have not tried with the blue screen brick, because I do not have an r4 in case it does not work, so I tell them to try, the ones that have an r4.)
+
+But what I am going to tell you does not work with consoles without a hack, that is, a brick to remove a dev hack on the console, even so, I have an idea that could work, but I do not know if it is successful, those interested they can say ...
+
+Anyway; To run godmode9, I recommend using version 1.9.0 for compatibility issues for now. Preparation.
+
+1_ A nand is needed to revive the console, if you don't have one, use the nand from the CTRTransfer method. Of course, use the nand of your region and the corresponding console. Then put the nand in the sd.
+
+2_ A magnet, and know the point of turning off your console with the magnet (if the godmode9 appears only when turning on the console without the magnet, they no longer need it, of course also if the magnet does not work, a light touch on the bottom right works, only if godmode9 does not run with or without magnet)
+
+3_ remove "boot.firm" from luma, then put godmode9.firm to the root of sd, then rename "godmode9" to "boot". After this we go to the console, and turn on normally (otherwise the godmode9 comes out, use the magnet). The following steps are for a nand if you use CTRTransfer use this link and tutorial. http://3ds.hack.guide/es_ES/ctrtransfer.html
+
+Those who have Arm9loaderhax, it will not run, they should do the tutorial of passing A9LH to boot9strap. And if it is stuck after starting boot9, follow the CTR tutorial or restore nand. It depends on what they have.
+
+(If you have arm9loaderhax I leave you a mega link with the prepared files, you just have to run the safebs9instalaller pressing "POWER" plus "Start", then wait for it to load and make the crosshead code they ask for. Https: // mega. Nz / file / 8wVFUCKD # iIZRrkEsbmVIjnHnWgB-lSoRQmpXdecPmipDl4pQkOw)
+
+When godmode9 appears, first press the "B" button.
+
+Then in the gm9 menu go to the option "SDCARD".
+
+Then select your nand backup.
+
+Choose the option for "NAND Image Options ..."
+
+Then the option "Restore SysNAND (safe)"
+
+Prepare the code of spreaders that they ask you.
+
+After installing nand, go to the main menu of the gm9 and press "L" plus "Start".
+
+Then remove the sd and put the "boot.firm" of the luma, then enter the sd and the console will turn on.
+
+For those who want to contact me for what has been said above, I leave the discord where I am https://discord.gg/dWA7nsC
+
+and my username is RolanRD # 5834 A9LH, take me over but in case you don't want to enter there I'll leave you my name. Thanks to DH for giving me the idea.
