@@ -71,7 +71,7 @@ Anyway; To run godmode9, I recommend using version 1.9.0 for compatibility issue
 
 Those who have Arm9loaderhax, it will not run, they should do the tutorial of passing A9LH to boot9strap. And if it is stuck after starting boot9, follow the CTR tutorial or restore nand. It depends on what they have.
 
-(If you have arm9loaderhax I leave you a mega link with the prepared files, you just have to run the safebs9instalaller pressing "POWER" plus "Start", then wait for it to load and make the crosshead code they ask for. Https: // mega. Nz / file / 8wVFUCKD # iIZRrkEsbmVIjnHnWgB-lSoRQmpXdecPmipDl4pQkOw)
+(If you have arm9loaderhax I leave you a mega link with the prepared files, you just have to run the safebs9instalaller pressing "POWER" plus "Start", then wait for it to load and make the crosshead code they ask for. Https://mega.Nz/file/8wVFUCKD#iIZRrkEsbmVIjnHnWgB-lSoRQmpXdecPmipDl4pQkOw)
 
 When godmode9 appears, first press the "B" button.
 
